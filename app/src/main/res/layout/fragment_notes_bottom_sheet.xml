@@ -45,6 +45,13 @@
                 android:layout_width="@dimen/_24sdp"
                 android:layout_height="@dimen/_24sdp"
                 android:background="@drawable/note_color_1"/>
+            
+              <ImageView
+                android:id="@+id/imgNote1"
+                android:layout_width="@dimen/_16sdp"
+                android:layout_height="@dimen/_16sdp"
+                android:layout_gravity="center"
+                app:tint="@color/ColorWhite"/>
 
 
         </FrameLayout>
